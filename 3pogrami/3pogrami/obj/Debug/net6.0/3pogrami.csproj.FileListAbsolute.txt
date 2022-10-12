@@ -1,0 +1,15 @@
+C:\Users\Я\source\repos\3pogrami\3pogrami\bin\Debug\net6.0\3pogrami.exe
+C:\Users\Я\source\repos\3pogrami\3pogrami\bin\Debug\net6.0\3pogrami.deps.json
+C:\Users\Я\source\repos\3pogrami\3pogrami\bin\Debug\net6.0\3pogrami.runtimeconfig.json
+C:\Users\Я\source\repos\3pogrami\3pogrami\bin\Debug\net6.0\3pogrami.dll
+C:\Users\Я\source\repos\3pogrami\3pogrami\bin\Debug\net6.0\3pogrami.pdb
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.AssemblyInfo.cs
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.dll
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\refint\3pogrami.dll
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.pdb
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\3pogrami.genruntimeconfig.cache
+C:\Users\Я\source\repos\3pogrami\3pogrami\obj\Debug\net6.0\ref\3pogrami.dll
